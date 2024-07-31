@@ -36,7 +36,6 @@ El panel solar automático puede operar en dos modos:
 - **Protoboard:** Plataforma para montar y conectar los componentes electrónicos.
 - **Diodo 1N5819:** Diodo de rectificación para evitar la inversión de polaridad.
 - **Controlador de Carga Solar HW 736:** Controlador específico para la carga de baterías solares.
-- **Fotorresistencias:** Detectores de luz que permiten el seguimiento automático.
 - **Interruptores:**
   - **Interruptor de Modo** Permite seleccionar entre modo manual (posición derecha) y modo automático (posición izquierda).
   - **Interruptor para salida de USB (Establecer una carga):**  Permite encender (posición derecha) o apagar (posición izquierda) la salida de carga del panel solar. Debe estar en la posición derecha (encendido) solo cuando desee cargar dispositivos, como un celular. En la posición izquierda (apagado), la salida de carga está desactivada.
